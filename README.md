@@ -1,5 +1,5 @@
 
-![recipe_flutter_app](https://github.com/klubinskak/recipes-flutter-app/assets/76222513/ec9271a5-8bbb-4b36-bdb6-c59dc3435f40)
+![recipe_flutter_app](https://github.com/klubinskak/recipes-flutter-app/assets/76222513/513b29d1-26b4-40b1-a88a-40bab2f70721)
 
 # recipes_app
 
