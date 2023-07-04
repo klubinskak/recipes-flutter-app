@@ -1,3 +1,6 @@
+
+![recipe_flutter_app](https://github.com/klubinskak/recipes-flutter-app/assets/76222513/ec9271a5-8bbb-4b36-bdb6-c59dc3435f40)
+
 # recipes_app
 
 A new Flutter project.
